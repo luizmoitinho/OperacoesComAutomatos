@@ -1,2 +1,2 @@
-# Uniao_Intersec-o
+# Uniao_Interseccao
  Operações regulares
